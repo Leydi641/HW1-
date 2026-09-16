@@ -1,0 +1,54 @@
+body {
+    font-family: 'Times New Roman', Times, 'Times New Roman', Times, serif, 'Times New Roman', Times, serif, sans-serif;
+    background-color: lightpink;
+    color: #643e3e;
+    margin: 40px;
+}
+
+main {
+    max-width: 900px;
+    margin: auto;
+}
+
+h1 {
+    color: #643e3e;
+}
+
+h2 {
+    margin-top: 30px;
+}
+
+.center {
+    text-align: center;
+}
+
+.about {
+    overflow: auto;
+}
+
+.about img {
+    width: 180px;
+    height: 180px;
+    object-fit: cover;
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 10px;
+}
+
+.about p {
+    line-height: 1.6;
+}
+
+.content {
+    clear: both;
+}
+
+.content p,
+.content li {
+    line-height: 1.6;
+}
+
+a {
+    color: #6887a7;
+}
+
